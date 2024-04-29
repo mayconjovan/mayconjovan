@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá, bem vindo ao meu repositório 👋
 
-<!--
-**mayconjovan/mayconjovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Maycon, sou um desenvolvedor Java com foco em desensolver sistemas para web.
 
-Here are some ideas to get you started:
+Possuo mais de 5 anos de experiência em desenvolvimento de software, ja atuei em projetos de E-commerce, ERP, OMS entre outros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimentos em banco de dados SQL e NoSQL, Spring Framework, Docker, Redis, Git, API Rest entre outros.
+
+Um breve conhecimento em front-end sendo eles os 3 mosqueteiros (HTML,CSS,JS) e breve conhecimento em ReactJS.
+
+Algumas dessas tecnologias citadas podem ser encontradas em meus repositórios, outras foram de experiências que tive trabalhando em projetos do qual fiz parte.
+
+Contato
+
+<a href="https://www.linkedin.com/in/mayconjovan/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center", heigth="50" e width="60"/>          
+</a>
+
+Linguagem
+
+<div>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center", heigth="50" e width="60"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" align="center", heigth="50" e width="60"/>    
+</div>
+
