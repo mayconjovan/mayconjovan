@@ -11,15 +11,11 @@ Um breve conhecimento em front-end sendo eles os 3 mosqueteiros (HTML,CSS,JS) e 
 Algumas dessas tecnologias citadas podem ser encontradas em meus repositórios, outras foram de experiências que tive trabalhando em projetos do qual fiz parte.
 
 Contato
-
-<a href="https://www.linkedin.com/in/mayconjovan/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center", heigth="50" e width="60"/>          
-</a>
-
-Linguagem
-
 <div>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center", heigth="50" e width="60"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" align="center", heigth="50" e width="60"/>    
+<a href="https://www.linkedin.com/in/mayconjovan/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center", heigth="30" e width="30"/>          
+</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center", heigth="30" e width="30"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" align="center", heigth="30" e width="30"/>    
 </div>
 
