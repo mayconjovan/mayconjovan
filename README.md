@@ -15,7 +15,7 @@ Contato
 <a href="https://www.linkedin.com/in/mayconjovan/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center", heigth="30" e width="30"/>          
 </a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center", heigth="30" e width="30"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" align="center", heigth="30" e width="30"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center", heigth="40" e width="40"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" align="center", heigth="40" e width="40"/>    
 </div>
 
